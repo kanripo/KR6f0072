@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:23.396566
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:13
 #+TITLE: 觀無量壽經義疏
 #+PROPERTY: CBETA_ID T37n1749
 #+PROPERTY: ID KR6f0072
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 37, No. 1749
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0072_T_001-0173a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1749[cf.No.365]¶
-
- 本觀無量壽經義疏(本)¶
+No. 1749 [cf. No. 365]¶
+觀無量壽經義疏(本)¶
 ¶
 淨影寺沙門釋慧遠撰¶
 
@@ -305,7 +304,7 @@ No.1749[cf.No.365]¶
 不以徒眾付之。況汝癡人食唾者乎。調達聞¶
 之遂生瞋恕。往世王所說彼世王初生之日¶
 被傷因緣勸其害父。自身為王我殺瞿曇自¶
-己為佛。新王新佛共匡世間不亦樂乎。世王¶
+已為佛。新王新佛共匡世間不亦樂乎。世王¶
 因是生心害父。故今說言隨順調達惡友之¶
 教也。自下明禁父。收執父等禁閉其身制諸¶
 群臣一不得往遮不見人。頻婆娑羅往昔有¶
@@ -622,8 +621,7 @@ No.1749[cf.No.365]¶
 觀經義疏(本終)¶
 ¶
 ¶
-
- 末觀無量壽經義疏(末)¶
+觀無量壽經義疏(末)¶
 ¶
 淨影寺沙門釋慧遠撰¶
 
